@@ -18,7 +18,7 @@ Designed and tested on **Android (Pydroid 3)** – perfect for learning and show
 
 ## 🚀 Demo Screenshot
 
-
+![image alt](https://github.com/banu06764-blip/tkinter-basic-quiz-system/blob/317a9957ed1a386dc179d3b603e2ac7b4cf09448/20250803_110242.jpg)
 
 ---
 
