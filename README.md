@@ -1,14 +1,36 @@
-# MCQ Quiz App 🧠
+# 🧠 Tkinter Basic Quiz System
 
-This is a simple **Multiple Choice Quiz App** built using Python. It allows users to answer 10 questions and shows their score at the end.
+A simple Python-based MCQ Quiz app using **Tkinter** GUI.  
+Designed and tested on **Android (Pydroid 3)** – perfect for learning and showcasing logic-building.
+
+---
 
 ## 📌 Features
-- 10 Multiple Choice Questions
-- Score calculation
-- Easy to expand more questions
-- Fully coded using Python and tkinter
+
+- 10 Multiple Choice Questions  
+- Option selection via radio buttons  
+- Final score display  
+- User-friendly UI built for small screens (tested on Samsung A70s)  
+- Simple and clean Python logic
 - Timer for 10 minutes
 
-## 🚀 Getting Started
+---
+
+## 🚀 Demo Screenshot
+
+
+
+---
+
+## 🛠 Built With
+
+- Python
+- Tkinter GUI
+- Pydroid 3 (Mobile Python IDE)
+
+---
+
+## 🧪 How to Run
+
 ```bash
-python quiz.py
+python mcq_quiz.py
