@@ -32,5 +32,8 @@ Designed and tested on **Android (Pydroid 3)** – perfect for learning and show
 
 ## 🧪 How to Run
 
-```bash
-python quiz.py
+1. Install Python 3.x
+2. Ensure Tkinter is installed (default in Python)
+3. Run the program:
+   ```bash
+   python calculator.py
