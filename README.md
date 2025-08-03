@@ -33,4 +33,4 @@ Designed and tested on **Android (Pydroid 3)** – perfect for learning and show
 ## 🧪 How to Run
 
 ```bash
-python mcq_quiz.py
+python quiz.py
