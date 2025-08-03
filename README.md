@@ -6,7 +6,8 @@ This is a simple **Multiple Choice Quiz App** built using Python. It allows user
 - 10 Multiple Choice Questions
 - Score calculation
 - Easy to expand more questions
-- Fully coded using Python (Tkinter optional)
+- Fully coded using Python and tkinter
+- Timer for 10 minutes
 
 ## 🚀 Getting Started
 ```bash
