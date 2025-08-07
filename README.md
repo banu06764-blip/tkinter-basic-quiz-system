@@ -36,4 +36,4 @@ Designed and tested on **Android (Pydroid 3)** – perfect for learning and show
 2. Ensure Tkinter is installed (default in Python)
 3. Run the program:
    ```bash
-   python calculator.py
+   python main.py
